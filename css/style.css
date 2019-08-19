@@ -446,6 +446,14 @@ body{font-family: Arial, Helvetica, sans-serif;}
     }
 }
 
+@media (max-width: 596px) {
+
+    .latest-posts
+    {
+        padding-top: 20px;
+    }
+}
+
 
 .latest-posts .latest-p
 {
