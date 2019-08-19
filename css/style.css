@@ -1001,6 +1001,7 @@ footer ul li a
     bottom: 15px;
     right: 15px;
     display: none;
+    z-index: 99999;
 }
 
 .scroll-top i
